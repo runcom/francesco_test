@@ -257,12 +257,4 @@ for s in steps_list:
             print 'The solution for advent of code is: ', (abs(steps_list[t][0]) + abs(steps_list[t][1]))
             print '------------------------------------------------'
         l += 1
-    t += 1test repo for Francesco to lean git and github
-c
-i
-a
-o
-n
-e
-form
-bellamerda
+    t += 1
